@@ -57,4 +57,4 @@ api名称|作用
 综上，我们在这一功能最终决定使用百度的**通用物体和场景识别api**。
 
 ### api调用
-
+![调用结果](C:\Users\asus\Desktop\timg.jpg)
