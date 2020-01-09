@@ -60,11 +60,12 @@ api名称|作用
 综上，我们在这一功能最终决定使用百度的**通用物体和场景识别api**。
 
 ### api调用
-![调用结果](C:\Users\asus\Desktop\timg.jpg)
+![识别结果.png](https://upload-images.jianshu.io/upload_images/9467429-31da858396938712.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 
 - **人脸融合小功能**
 ### 关于这项功能目前我只找到了百度与腾讯两家平台有推出，但腾讯的人脸融合为（敬请期待）状态，无法正常调用，因此只能调用百度平台的api。
 
 ### api调用
-![调用结果2](C:\Users\asus\Desktop\调用结果2.png)
+![调用结果2.png](https://upload-images.jianshu.io/upload_images/9467429-5809d249e5e0f4af.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
